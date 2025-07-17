@@ -111,13 +111,15 @@ npm start
 Frontend will run on `http://localhost:3000/`.
 
 ---
-
 ## 📸 UI Preview
 
-- Homepage with URL form and output
-- Stats view for shortened URLs
-- Update and delete short URL functionalities
-- About and Contact pages
+- Homepage with URL form and output  
+- Stats view for shortened URLs  
+- Update and delete short URL functionalities  
+- About and Contact pages  
+
+[![UI Preview](dev/client/src/assets/ui-preview.png)](dev/client/src/assets/ui-preview.png)
+
 
 ---
 
