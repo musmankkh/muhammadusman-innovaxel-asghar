@@ -118,7 +118,15 @@ Frontend will run on `http://localhost:3000/`.
 - Update and delete short URL functionalities  
 - About and Contact pages  
 
-[![UI Preview](dev/client/src/assets/ui-preview.png)](dev/client/src/assets/ui-preview.png)
+<details>
+  <summary>🔽 Click to expand</summary>
+
+  <br>
+
+  ![UI Preview](https://ibb.co/JwTYGmkc)
+
+</details>
+
 
 
 ---
