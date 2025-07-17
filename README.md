@@ -123,9 +123,12 @@ Frontend will run on `http://localhost:3000/`.
 
   <br>
 
-  ![UI Preview](https://ibb.co/JwTYGmkc)
+  <a href="https://ibb.co/JwTYGmkc" target="_blank">
+    <img src="https://i.ibb.co/G4DZ8nPd/Screenshot-2025-07-17-at-14-36-58-Shortly.png" alt="Shortly UI Screenshot" width="100%" style="border-radius: 8px;" />
+  </a>
 
 </details>
+
 
 
 
