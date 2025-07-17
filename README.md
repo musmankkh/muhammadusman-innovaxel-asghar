@@ -1,8 +1,4 @@
-Here’s a professional and well-structured `README.md` file tailored to your **"Shortly - URL Shortener"** project for **Innovaxel assessment**, considering the folder structure you shared.
 
----
-
-```markdown
 # 🔗 Shortly - URL Shortener
 
 > A full-stack URL shortener web app built as part of the Innovaxel project assessment. It allows users to shorten long URLs, view analytics, update, and delete shortened URLs with ease.
@@ -21,7 +17,6 @@ The repository is organized into two main branches:
 ### 🔧 Folder Layout (in `dev` branch)
 
 ```
-
 dev/
 ├── client/
 │   ├── src/
@@ -43,8 +38,7 @@ dev/
 │   ├── utils/
 │   ├── index.js
 │   └── .env (excluded in `.gitignore`)
-
-````
+```
 
 ---
 
@@ -80,7 +74,7 @@ dev/
 ```bash
 git clone --branch dev --single-branch https://github.com/musmankkh/muhammadusman-innovaxel-asghar.git
 cd muhammadusman-innovaxel-asghar
-````
+```
 
 ---
 
@@ -120,24 +114,24 @@ Frontend will run on `http://localhost:3000/`.
 
 ## 📸 UI Preview
 
-* Homepage with URL form and output
-* Stats view for shortened URLs
-* Update and delete short URL functionalities
-* About and Contact pages
+- Homepage with URL form and output
+- Stats view for shortened URLs
+- Update and delete short URL functionalities
+- About and Contact pages
 
 ---
 
 ## 📌 Notes
 
-* Make sure MongoDB is running or use MongoDB Atlas.
-* `.env` file is excluded from Git for security.
-* Project designed with clean separation of frontend and backend concerns.
+- Make sure MongoDB is running or use MongoDB Atlas.
+- `.env` file is excluded from Git for security.
+- Project designed with clean separation of frontend and backend concerns.
 
 ---
 
 ## 👨‍💻 Author
 
-**Muhammad Usman Asghar**
+**Muhammad Usman Asghar**  
 Submitted for **Innovaxel Project Assessment**
 
 ---
@@ -145,11 +139,3 @@ Submitted for **Innovaxel Project Assessment**
 ## 📄 License
 
 This project is for educational and assessment purposes only.
-
-```
-
----
-
-Let me know if you also want a deployment guide (e.g., for Vercel/Render) or badges for GitHub, Netlify, etc.
-```
-
