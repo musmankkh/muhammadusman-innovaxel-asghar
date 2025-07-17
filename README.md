@@ -95,7 +95,7 @@ MONGO_URI=your_mongodb_connection_string_here
 Start the backend server:
 
 ```bash
-node index.js
+npm start
 ```
 
 ---
